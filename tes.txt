@@ -1,0 +1,19 @@
+Mengonversi kolom tanggal menjadi format datetime.
+Menambahkan kolom untuk menghitung minggu dari data yang ada.
+Mengidentifikasi data kosong dan menghitung jumlah gangguan.
+
+
+Menghitung rata-rata kecepatan truk dalam satu bulan.
+Menghitung total data sensor 2 yang kosong.
+Menentukan kecepatan terendah dan tertinggi truk.
+Mengidentifikasi tanggal dengan gangguan terbanyak.
+
+
+Pembahasan
+Hasil analisis menunjukkan bahwa rata-rata kecepatan truk berada pada tingkat yang cukup rendah, dengan nilai minimum 4.0 unit dan maksimum 10.0 unit. Tingginya jumlah data kosong (misalnya, 24 gangguan pada tanggal 2024-11-29) menandakan adanya masalah yang signifikan dengan sensor 2. Hubungan antara gangguan sensor dan kecepatan truk menunjukkan bahwa ketidakakuratan dalam pengukuran kecepatan dapat dipicu oleh gangguan yang sering terjadi, berpotensi mengganggu operasional truk dan menyebabkan ketidakpuasan pengguna.
+
+Kesimpulan
+Analisis menunjukkan bahwa sensor 2 mengalami masalah serius yang memengaruhi pengukuran kecepatan truk. Rekomendasi untuk perbaikan meliputi:
+Memperbaiki aplikasi Windows yang sering force-closed untuk meningkatkan kestabilan.
+Melakukan pemeliharaan rutin pada sensor untuk memastikan kinerjanya yang optimal.
+Mempertimbangkan penggantian sensor jika gangguan terus berlanjut.
